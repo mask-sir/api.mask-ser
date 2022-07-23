@@ -1,5 +1,5 @@
 { "CREATOR" : "MASK SER",
-   "result" : { ["https://i.imgur.com/dtmFXd8.mp4",
+   "result" : ["https://i.imgur.com/dtmFXd8.mp4",
 "https://i.imgur.com/sIhrW6W.mp4", 
 "https://i.imgur.com/TiEGMsr.mp4", 
 "https://i.imgur.com/Ke2dTVN.mp4", 
@@ -13,5 +13,6 @@
 "https://i.imgur.com/ZLzyQOn.mp4",
 "https://i.imgur.com/gPO82AP.mp4",
 "https://i.imgur.com/zmUux4l.mp4",
-"https://i.imgur.com/x5GxnkV.mp4"] }
+"https://i.imgur.com/x5GxnkV.mp4"
+] 
 }
